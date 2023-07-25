@@ -57,4 +57,12 @@
 
 
 
+### 04_IS NULL
+1. [NULL 처리하기](https://github.com/oiosu/SQL-MYSQL/commit/f03b91147740f42c589782aa3a3f807afa0f83ca)
+2. [경기도에 위치한 식품창고 목록 출력하기](https://github.com/oiosu/SQL-MYSQL/commit/8afd2d8274cf06df4e97284faf217b2e227df1fe)
+3. [이름이 없는는 동물의 아이디](https://github.com/oiosu/SQL-MYSQL/commit/bc8f736816546669eeaf1fb6369db338e62b1e2d)
+4. [이름이 있는 동물의 아이디](https://github.com/oiosu/SQL-MYSQL/commit/bc8f736816546669eeaf1fb6369db338e62b1e2d)
+5. [나이정보가 없는 회원 수 구하기](https://github.com/oiosu/SQL-MYSQL/commit/9db555cb9a2a49ab84262322557e2d894a463c7a)
+
+
 
