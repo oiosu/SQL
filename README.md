@@ -36,3 +36,25 @@
 5. [최댓값 구하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 6. [최솟값 구하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 
+
+### 03_GROUP BY
+1. [가격대 별 상품 개수 구하기](https://github.com/oiosu/SQL-MYSQL/commit/ed924c32b297583722dc0ea3ecb445e06989180e)
+2. [성분으로 구분한 아이스크림 총 주문량](https://github.com/oiosu/SQL-MYSQL/commit/3df28b122bc6df7628bc2bd90b0060ac78d2982c)
+3. [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://github.com/oiosu/SQL-MYSQL/commit/304925d2ec69b6c797ab73da0ffbdcd8e3757c85)
+4. [동명 동물 수 찾기](https://github.com/oiosu/SQL-MYSQL/commit/dda7cc503ad0f7e618e1f02e320c8056b477d785)
+5. [년, 월, 성별 별 상품 구매 회원 수 구하기](https://github.com/oiosu/SQL-MYSQL/commit/2280a349c8bb527f19d618ab84e3757234437702)
+6. [성분으로 구분한 아이스크림 총 주문량](https://github.com/oiosu/SQL-MYSQL/commit/3df28b122bc6df7628bc2bd90b0060ac78d2982c)
+7. [식품분류별 가장 비싼 식품의 정보 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/3ef97ea7548425e5bcf66dc12f4c94e431f27050)
+8. [입양시각구하기(1)](https://github.com/oiosu/SQL-MYSQL/commit/3d66bab588968c8cbbc5efa7ea78692088bd1330)
+9. [입양시각구하기(2)](https://github.com/oiosu/SQL-MYSQL/commit/add5915d67a3f7dad2453fadbe6bbcb58fa602d4)
+10. [자동차 대여 기록에서 대여중/대여 가능여부 구분하기](https://github.com/oiosu/SQL-MYSQL/commit/5e68a575d7ffda1839aa0d87ac4b32ed20c6d2a0)
+11. [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기](https://github.com/oiosu/SQL-MYSQL/commit/7c50d63af5337e1c9b4d53b2957ac45f43138fef)
+12. [성분으로 구분한 아이스크림 총 주문량](https://github.com/oiosu/SQL-MYSQL/commit/3df28b122bc6df7628bc2bd90b0060ac78d2982c)
+13. [조건에 맞는 사용자와 총 거래금액 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/3982d01b942777a3b30275394d0f318e724d8d43)
+14. [즐겨찾기가 가장 많은 식당 정보 출력하기](https://github.com/oiosu/SQL-MYSQL/commit/fd3648445ebb4ea60853436083d777f1a336f061)
+15. [진료과별 총 예약 횟수 출력하기](https://github.com/oiosu/SQL-MYSQL/commit/e39612f2bc481433e0edc9d08463c2c88b3139c9)
+16. [카테고리 별 도서 판매량 집계하기](https://github.com/oiosu/SQL-MYSQL/commit/31c115aee5a255cc62aece79970df7d8cf3d9d25)
+
+
+
+
