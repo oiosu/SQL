@@ -4,7 +4,7 @@
 
 #### 🔥 [PYTHON DB 에 대해 학습한 것 (참고하기)](https://github.com/oiosu/Python_DB)
 
-### 01 SELECT 
+### 01_SELECT 
 1. [12세 이하인 여자 환자 목록 출력하기](https://github.com/oiosu/SQL/commit/1fb87906846194cab0536d34e2af9ec393d43f71)
 2. [3월에 태어난 여성 회원 목록 출력하기](https://github.com/oiosu/SQL/commit/2da5615a3f0212079eff2b583f0d0f99ed4d8d34)
 3. [과일로 만든 아이스크림 고르기](https://github.com/oiosu/SQL/commit/95b02bd0f519b66d0237b6aaeb451ecdb6ade03f)
@@ -25,3 +25,14 @@
 18. [평균 일일 대여 요금 구하기](https://github.com/oiosu/SQL/blob/master/01%20SELECT/%ED%8F%89%EA%B7%A0%EC%9D%BC%EC%9D%BC%EB%8C%80%EC%97%AC%EC%9A%94%EA%B8%88.sql)
 19. [흉부외과 또는 일반외과 의사 목록 출력하기](https://github.com/oiosu/SQL/blob/master/01%20SELECT/%ED%9D%89%EB%B6%80%EC%99%B8%EA%B3%BC%20%EB%98%90%EB%8A%94%20%EC%9D%BC%EB%B0%98%EC%99%B8%EA%B3%BC.sql)
 20. [강원도에 위치한 생산공장 목록 출력하기](https://github.com/oiosu/SQL/blob/master/01%20SELECT/%EA%B0%95%EC%9B%90%EB%8F%84%20%EC%83%9D%EC%82%B0%EA%B3%B5%EC%9E%A5.sql)
+
+
+
+### 02_SUM, MAX, MIN
+1. [가격이 제일 비싼 식품의 정보 출력하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EA%B0%80%EA%B2%A9%EB%B9%84%EC%8B%BC%EC%8B%9D%ED%92%88%EC%A0%95%EB%B3%B4.sql)
+2. [가장 비싼 상품 구하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EA%B0%80%EC%9E%A5%EB%B9%84%EC%8B%BC%EC%83%81%ED%92%88.sql)
+3. [동물 수 구하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EB%8F%99%EB%AC%BC%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+4. [중복 제거하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EC%A4%91%EB%B3%B5%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql)
+5. [최댓값 구하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+6. [최솟값 구하기](https://github.com/oiosu/SQL/blob/master/02%20SUM%2C%20MAX%2C%20MIN/%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+
