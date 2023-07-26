@@ -66,3 +66,19 @@
 
 
 
+### 05_JOIN 
+1. [5월 식품들의 총매출 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/acbccce15e3229430d436afc4e23aeb50f9ccdc9)
+2. [그룹별 조건에 맞는 식당 목록 출력하기](https://github.com/oiosu/SQL-MYSQL/blob/master/05%20JOIN/%EA%B7%B8%EB%A3%B9%EB%B3%84%EC%A1%B0%EA%B1%B4%EC%8B%9D%EB%8B%B9%EB%AA%A9%EB%A1%9D.sql)
+3. [조건에 맞는 도서와 저자 리스트 출력하기](https://github.com/oiosu/SQL-MYSQL/commit/b3f15bb22ef24ff47f8722992e4e9e302791ad74)
+4. [보호소에서 중성화한 동물](https://github.com/oiosu/SQL-MYSQL/commit/690e215775015897971dd8cb2815cb8483886f76)
+5. [상품을 구매한 회원 비율 구하기](https://github.com/oiosu/SQL-MYSQL/commit/69dc04e7c69a8b76fba4339bd9da6b90f8c7b31b)
+6. [상품 별 오프라인 매출 구하기](https://github.com/oiosu/SQL-MYSQL/commit/9420fe7139e6bacb27a43c861db90e5ea3765f28)
+7. [없어진 기록찾기](https://github.com/oiosu/SQL-MYSQL/commit/417fd41bf2a51339bf5fdd86b4f7a7958e1fb7d6)
+8. [오랜 기간 보호한 동물(1)](https://github.com/oiosu/SQL-MYSQL/commit/0bc86a4a2b6c9eac12a6d3e1923d31608d7615c3)
+9. [주문량이 많은 아이스크림 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/e4b74e462a38667c8002214a28529b45512c3c5c)
+10. [특정 기간동안 대여 가능한 자동차들의 대여비용 구하기](https://github.com/oiosu/SQL-MYSQL/commit/89f96b1b44c36130a9964b72278b7e1f52e94a44)
+11. [있었는데요 없었습니다 ](https://github.com/oiosu/SQL-MYSQL/blob/master/05%20JOIN/%EC%9E%88%EC%96%B4%EC%97%86%EC%96%B4.sql)
+
+
+
+ 
