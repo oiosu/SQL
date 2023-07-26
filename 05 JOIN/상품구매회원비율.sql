@@ -7,15 +7,13 @@
 -- 전체 결과는 년을 기준으로 오름차순 정렬
 -- 년이 같다면 월을 기준으로 오름차순 정렬
 
-SELECT TO_CHAR(SALES_DATE, 'YYYY') AS YEAR
-, TO_NUMBER(TO_CHAR(SALES_DATE, 'MM')) AS MONTH
-, COUNT(DISTINCT(USER_ID)) AS PUCHASED_USERS
-, ROUND(COUNT(DISTINCT(USER_ID)) / (SELECT COUNT(USER_ID)
-                                    FROM USER_INFO 
-                                    WHERE TO_CHAR(JOINED, 'YYYY') = '2021'), 1) AS PUCHASED_RATIO
-FROM ONLINE_SALE
-WHERE USER_ID IN (SELECT USER_ID
-                  FROM USER_INFO 
-                  WHERE TO_CHAR(JOINED, 'YYYY') = '2021')
-GROUP BY TO_CHAR(SALES_DATE, 'YYYY') , TO_CHAR(SALES_DATE, 'MM')
-ORDER BY YEAR, MONTH;
+SELECT year(sales_date) as year,month(sales_date) as month, count(distinct user_id) as puchased_users,
+# 구매 비율
+round(count(distinct user_id)/(select count(*) from user_info where year(joined)=2021),1) as puchased_ratio
+from online_sale
+where user_id in (select user_id from user_info where year(joined) = 2021)
+group by year(sales_date),month(sales_date)
+order by year,month
+
+
+/* 참고 : https://chaemi720.tistory.com/239 */
