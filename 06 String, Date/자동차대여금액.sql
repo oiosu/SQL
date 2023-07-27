@@ -1,0 +1,28 @@
+-- 자동차 대여 기록 별 대여 금액 구하기 
+
+-- CAR_RENTAL_COMPANY_CAR 테이블과
+-- CAR_RENTAL_COMPANY_RENTAL_HISTORY 테이블과 
+-- CAR_RENTAL_COMPANY_DISCOUNT_PLAN 테이블에서 자동차 종류가 '트럭'인 자동차의 
+-- 대여 기록에 대해서 대여 기록 별로 대여 금액(컬럼명: FEE)을 구하여
+-- 대여 기록 ID와 대여 금액 리스트를 출력
+-- 결과는 대여 금액을 기준으로 내림차순 정렬
+-- 대여 금액이 같은 경우 대여 기록 ID를 기준으로 내림차순 정렬
+
+-- 주의사항 : FEE의 경우 예시처럼 정수부분만 출력
+
+
+SELECT HISTORY_ID,
+    ROUND(DAILY_FEE * (DATEDIFF(H.END_DATE, H.START_DATE)+1)
+    * (CASE 
+        WHEN DATEDIFF(END_DATE, START_DATE)+1 < 7 THEN 1
+        WHEN DATEDIFF(END_DATE, START_DATE)+1 < 30 THEN 0.95
+        WHEN DATEDIFF(END_DATE, START_DATE)+1 < 90 THEN 0.92  
+        ELSE 0.85 END)) AS "FEE"
+FROM CAR_RENTAL_COMPANY_CAR AS C
+    JOIN CAR_RENTAL_COMPANY_RENTAL_HISTORY AS H
+    ON C.CAR_ID = H.CAR_ID
+    JOIN CAR_RENTAL_COMPANY_DISCOUNT_PLAN AS P
+    ON C.CAR_TYPE = P.CAR_TYPE
+WHERE C.CAR_TYPE = "트럭"
+GROUP BY HISTORY_ID
+ORDER BY FEE DESC, HISTORY_ID DESC
