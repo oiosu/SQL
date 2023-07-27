@@ -82,5 +82,26 @@
 
 
 
+
 ### 06_String, Date
- 
+1. [DATETIME에서 DATE로 형 변환](https://github.com/oiosu/SQL-MYSQL/commit/b2ba8a48a5efc11a9d1ef67fb9a6bbaeb6194b11)
+2. [대여 기록이 존재하는 자동차 리스트 구하기](https://github.com/oiosu/SQL-MYSQL/commit/789dcbbbcbfc3066308e7eb2374a80d21f183b29)
+3. [루시와 엘라찾기](https://github.com/oiosu/SQL-MYSQL/commit/e153413aa4e211a0b88784599cc3e00448026d3f)
+4. [오랜 기간 보호한 동물(2)](https://github.com/oiosu/SQL-MYSQL/commit/1c4531ee3b38fca3c6a4ac42554749170ea2400a)
+5. [이름에 el이 들어가는 동물 찾기](https://github.com/oiosu/SQL-MYSQL/commit/6f7825fd878f983390d7705cba57105b893b00c6)
+6. [자동차 대여 기록 별 대여 금액 구하기](https://github.com/oiosu/SQL-MYSQL/commit/a6dcdaeb7bcbd70fedea69243b9787802371d0d9)
+7. [자동차 대여 기록에서 장기/단기 대여 구분하기 ](https://github.com/oiosu/SQL-MYSQL/blob/master/06%20String%2C%20Date/%EC%9E%90%EB%8F%99%EC%B0%A8%EC%9E%A5%EA%B8%B0%EB%8B%A8%EA%B8%B0%EB%8C%80%EC%97%AC.sql)
+8. [자동차 평균 대여 기간 구하기](https://github.com/oiosu/SQL-MYSQL/commit/78082886ab3112a8cae5b4bceeacd97eed0a3ab8)
+9. [조건별로 분류하여 주문상태 출력하기](https://github.com/oiosu/SQL-MYSQL/commit/2c15319bd0a4da09b60dcce6974d11bad8c2a06c)
+10. [조건에 부합하는 중고거래 상태 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/e708c2ce9e99a6f547452b2be75f5f6753cb6c46)
+11. [조건에 맞는 사용자 정보 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/d58984430c9f1413c4c90894a29663cd3b74aeaa)
+12. [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/2a8662a338b542ad24dbd0498f8079f283fa56a8)
+13. [중성화 여부 파악하기](https://github.com/oiosu/SQL-MYSQL/commit/0209103754b2e3e3be575c38274cbe7affd70c81)
+14. [취소되지 않은 진료 예약 조회하기](https://github.com/oiosu/SQL-MYSQL/commit/73a2619837056ab2a8ece5e8602ad8fb74ddf311)
+15. [카테고리 별 상품 개수 구하기](https://github.com/oiosu/SQL-MYSQL/commit/4bc3157f89e663fe1d3946858da6843891854f9b)
+16. [특정옵션이 포함된 자동차 리스트 구하기](https://github.com/oiosu/SQL-MYSQL/commit/1aa0866f3c1db23d776892a495570bd54718bebd)
+
+
+
+
+
