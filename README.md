@@ -1,8 +1,8 @@
 ## 👀 SQL_Programmers 
 > Microsoft SQL Server Management Studio를 사용하면서 데이터 베이스에 대해 더 잘 이해하고 활용하고자 <br>
-> 평소에 공부해왔던 SQL개념들을 복습하고 Programmers의 고득점KIT, LeetCode 문제들을 해결하면서 공부해나가고 있습니다.
-> Programmers :https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
-> LeetCode : https://leetcode.com/studyplan/top-sql-50/
+> 평소에 공부해왔던 SQL개념들을 복습하고 Programmers의 고득점KIT, LeetCode 문제들을 해결하면서 공부해나가고 있습니다. <br>
+> Programmers :https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit  <br>
+> LeetCode : https://leetcode.com/studyplan/top-sql-50/   <br>
 
 
 
